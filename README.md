@@ -33,8 +33,9 @@ Bu proje, QA Bootcamp kapsamında Petstore API üzerinde yapılan test senaryola
 ```bash
 cd cypress-tests
 npx cypress open
-
-### Cypress
+```
+### Locust
 ```bash
 cd locust-tests
 locust --host https://petstore.swagger.io
+```
